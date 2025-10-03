@@ -51,7 +51,8 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 ![WhatsApp Image 2025-10-03 at 20 55 03_e455561c](https://github.com/user-attachments/assets/788be639-05de-4d34-bfca-83296e7b5a8b)
-![WhatsApp Image 2025-10-03 at 20 53 11_42d1a7f9](https://github.com/user-attachments/assets/0bc0164e-5cd8-4e10-bfc4-a4dbf8077532)
+![Uploading image.png…]()
+
 # Output
 <img width="324" height="144" alt="image" src="https://github.com/user-attachments/assets/7bc63852-a640-410c-9556-ba97bab79a70" />
 
